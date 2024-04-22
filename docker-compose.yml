@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongodb/mongodb-community-server:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+
+  python_script:
+    build:
+      context: .
+      dockerfile: dockerfile
+    container_name: python_script
+    depends_on:
+      - mongodb
+    volumes:
+      - ./app.py:/app/app.py 
+    environment:
+      - MONGO_URI=mongodb://mongodb:27017/DB
+    command: bash -c "while true; do python app.py; sleep 43200; done"
+
+volumes:
+  mongodb_data:
