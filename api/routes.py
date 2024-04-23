@@ -152,12 +152,9 @@ def get_weather_by_date():
     if not date:
         return jsonify({"error": "Format de date invalide. Assurez-vous d'utiliser le format 'jour/mois/année'"}), 400
 
-    # Créer la requête pour trouver les données correspondant à la date spécifiée
     query = {"insertion_time": {"$gte": date, "$lt": date + timedelta(days=1)}}
     weather_data = list(db.weather.find(query))
 
-    # Formatter les données pour la réponse
     formatted_data = format_weather_data(weather_data)
 
-    # Vérifier s'il y a des données à retourner
     return jsonify(formatted_data) if weather_data else jsonify({"error": "Aucune donnée météorologique disponible pour la date spécifiée"})
