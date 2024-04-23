@@ -29,7 +29,7 @@ services:
       - MONGO_URI=mongodb://mongodb:27017/DB
     ports:
       - "8080:8080"
-    command: bash -c "while true; do python app.py; sleep 180; done"
+    #command: bash -c "while true; do python app.py; sleep 180; done"
 
   dashboard:
     build:

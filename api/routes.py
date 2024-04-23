@@ -158,3 +158,4 @@ def get_weather_by_date():
     formatted_data = format_weather_data(weather_data)
 
     return jsonify(formatted_data) if weather_data else jsonify({"error": "Aucune donnée météorologique disponible pour la date spécifiée"})
+

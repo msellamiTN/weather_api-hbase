@@ -1,5 +1,6 @@
 import json
 import time
+import logging
 from datetime import datetime
 import requests
 from flask import Flask
@@ -8,6 +9,13 @@ from pymongo import MongoClient
 app = Flask(__name__)
 client = MongoClient('172.20.0.2', 27017)
 db = client['weatherdb']
+
+@app.route('/api/weather/ingest', methods=['GET'])
+def get_ingest_data():
+
+    weather_data = store_weather_data_in_db()
+    return jsonify({"info ":"succes d'ingestion (chargement de données)"}) if weather_data else jsonify({"error": "Aucune donnée météorologique disponible"})
+
 
 def get_weather_data(lat, lon, api_key):
     base_url = "https://api.openweathermap.org/data/2.5/weather"
@@ -30,18 +38,17 @@ def get_data(lat, lon):
     return get_weather_data(lat, lon, api_key)
 
 def store_weather_data_in_db():
-    while True:
+    #while True:
+    try:
         if 'city' not in db.list_collection_names():
             city_collection = db['city']
             with open('city.json', 'r', encoding='utf-8') as d:
                 data = json.load(d)
                 for city in data[:5]:  # Import only the first 5 cities
                     city_collection.insert_one(city)
-
         weather_collection = db['weather']
         city_collection = db['city']
         cursor = city_collection.find()
-
         for document in cursor:
             coord = document.get('coord')
             if coord:
@@ -49,7 +56,8 @@ def store_weather_data_in_db():
                 lon = coord.get('lon')
                 if lat is not None and lon is not None:
                     weather_data = get_data(lat, lon)
-                    print('data', weather_data)
+                    logging.info('data', weather_data)
+                    
                     if weather_data:
                         weather_record = {
                             "city_id": document['_id'],
@@ -63,18 +71,21 @@ def store_weather_data_in_db():
                             "insertion_time": datetime.now()
                         }
                         weather_collection.insert_one(weather_record)
-                        print(f"{document['name']} - Succès dans la collecte de données")
+                        time.sleep(300)
+                        logging.info(f"{document['name']} - Succès dans la collecte de données")
                     else:
-                        print(f"Impossible de récupérer les données météorologiques pour {document['name']}.")
+                        logging.info(f"Impossible de récupérer les données météorologiques pour {document['name']}.")
                 else:
-                    print(f"Le document {document['_id']} ne contient pas de coordonnées valides.")
+                    logging.info(f"Le document {document['_id']} ne contient pas de coordonnées valides.")
             else:
-                print(f"Le document {document['_id']} ne contient pas de champ 'coord'.")
-        time.sleep(300)
-
+                logging.info(f"Le document {document['_id']} ne contient pas de champ 'coord'.")
+        return True
+        
+    except:
+        logging.error("Erreur de connexion open whetherAPI")
+        return False
 from routes import *
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=8080)
-    store_weather_data_in_db()
-    
+    #store_weather_data_in_db()
