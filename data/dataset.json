@@ -1,0 +1,6287 @@
+[
+    {
+        "_id": "662678446426de3f076768e9",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-22 16:46:28",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 9.27,
+        "temp_min": 9.27,
+        "wind_speed": 7.2
+    },
+    {
+        "_id": "662678456426de3f076768ea",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 16:46:29",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.11,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "662678466426de3f076768eb",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 63,
+        "insertion_time": "2024-04-22 16:46:30",
+        "name": "Kahriz",
+        "pressure": 1017,
+        "temp_max": 17.04,
+        "temp_min": 17.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662678476426de3f076768ec",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 16:46:31",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662678496426de3f076768ed",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 16:46:33",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662678d51dd93a0cc8d11f9d",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-22 16:48:53",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 9.27,
+        "temp_min": 9.27,
+        "wind_speed": 7.2
+    },
+    {
+        "_id": "662678d61dd93a0cc8d11f9e",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 16:48:54",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.11,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "662678d71dd93a0cc8d11f9f",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 63,
+        "insertion_time": "2024-04-22 16:48:55",
+        "name": "Kahriz",
+        "pressure": 1017,
+        "temp_max": 17.04,
+        "temp_min": 17.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662678d81dd93a0cc8d11fa0",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 16:48:56",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662678d91dd93a0cc8d11fa1",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 16:48:57",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662678dbf5ca8e9a0afcdef6",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-22 16:48:59",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 9.27,
+        "temp_min": 9.27,
+        "wind_speed": 7.2
+    },
+    {
+        "_id": "662678dcf5ca8e9a0afcdef7",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 77,
+        "insertion_time": "2024-04-22 16:49:00",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 21.11,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "662678ddf5ca8e9a0afcdef8",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 63,
+        "insertion_time": "2024-04-22 16:49:01",
+        "name": "Kahriz",
+        "pressure": 1017,
+        "temp_max": 17.04,
+        "temp_min": 17.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662678def5ca8e9a0afcdef9",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 16:49:02",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662678e0f5ca8e9a0afcdefa",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 16:49:04",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "6626790880bb89f23e42a9f9",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-22 16:49:44",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 9.27,
+        "temp_min": 9.27,
+        "wind_speed": 7.2
+    },
+    {
+        "_id": "6626790980bb89f23e42a9fa",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 16:49:45",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "6626790a80bb89f23e42a9fb",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 16:49:46",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6626790b80bb89f23e42a9fc",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 16:49:47",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "6626790d80bb89f23e42a9fd",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 16:49:49",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267a20223e33d8e0e34159",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-22 16:54:24",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 9.27,
+        "temp_min": 9.27,
+        "wind_speed": 7.2
+    },
+    {
+        "_id": "66267a21223e33d8e0e3415a",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 16:54:25",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.34
+    },
+    {
+        "_id": "66267a23223e33d8e0e3415b",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 16:54:27",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267a24223e33d8e0e3415c",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 16:54:28",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267a25223e33d8e0e3415d",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 16:54:29",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267a4f2c9b33d0f1dc475a",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-22 16:55:11",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 9.27,
+        "temp_min": 9.27,
+        "wind_speed": 7.2
+    },
+    {
+        "_id": "66267a502c9b33d0f1dc475b",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 77,
+        "insertion_time": "2024-04-22 16:55:12",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 21.11,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "66267a512c9b33d0f1dc475c",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 16:55:13",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267a522c9b33d0f1dc475d",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 16:55:14",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267a532c9b33d0f1dc475e",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 16:55:15",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267bd2d7ea0e8daa39b3e0",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-22 17:01:38",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 9.27,
+        "temp_min": 9.27,
+        "wind_speed": 7.2
+    },
+    {
+        "_id": "66267bd3d7ea0e8daa39b3e1",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 77,
+        "insertion_time": "2024-04-22 17:01:39",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "66267bd5d7ea0e8daa39b3e2",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:01:41",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267bd6d7ea0e8daa39b3e3",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:01:42",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267bd7d7ea0e8daa39b3e4",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:01:43",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267ce58397947fbd6ef626",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:06:13",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267ce68397947fbd6ef627",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 17:06:14",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66267ce88397947fbd6ef628",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:06:16",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267ce98397947fbd6ef629",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:06:17",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267cea8397947fbd6ef62a",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:06:18",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267cf88b6f3da56f2e7f05",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:06:32",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267cf98b6f3da56f2e7f06",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 75,
+        "insertion_time": "2024-04-22 17:06:33",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 0.89
+    },
+    {
+        "_id": "66267cfa8b6f3da56f2e7f07",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:06:34",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267cfb8b6f3da56f2e7f08",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:06:35",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267cfc8b6f3da56f2e7f09",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:06:36",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267d272c217ebe0aab7bb9",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:07:19",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267d282c217ebe0aab7bba",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 17:07:20",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66267d292c217ebe0aab7bbb",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:07:21",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267d2b2c217ebe0aab7bbc",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:07:23",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267d2c2c217ebe0aab7bbd",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:07:24",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267d86cefb5d8a5413fabe",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:08:54",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267d87cefb5d8a5413fabf",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 17:08:55",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66267d89cefb5d8a5413fac0",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:08:57",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267d8acefb5d8a5413fac1",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:08:58",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267d8bcefb5d8a5413fac2",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:08:59",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267d8c49aa4f0486a2e0d5",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:09:00",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267d8d49aa4f0486a2e0d6",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 77,
+        "insertion_time": "2024-04-22 17:09:01",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "66267d8f49aa4f0486a2e0d7",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:09:03",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267d9049aa4f0486a2e0d8",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:09:04",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267d9149aa4f0486a2e0d9",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:09:05",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267e065f7cd48b01b8cba1",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:11:02",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267e075f7cd48b01b8cba2",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 17:11:03",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66267e085f7cd48b01b8cba3",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:11:04",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267e0a5f7cd48b01b8cba4",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:11:06",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267e0b5f7cd48b01b8cba5",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:11:07",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267e198486796510e995b7",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:11:21",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267e1a8486796510e995b8",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 77,
+        "insertion_time": "2024-04-22 17:11:22",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "66267e1b8486796510e995b9",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:11:23",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267e1c8486796510e995ba",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:11:24",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267e1e8486796510e995bb",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:11:26",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267e4758c2c91a495dd7f9",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:12:07",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267e4858c2c91a495dd7fa",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 17:12:08",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66267e4958c2c91a495dd7fb",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:12:09",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267e4b58c2c91a495dd7fc",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:12:11",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267e4c58c2c91a495dd7fd",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:12:12",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267e4d3ff2e450ee8d41e1",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:12:13",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267e4f3ff2e450ee8d41e2",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 75,
+        "insertion_time": "2024-04-22 17:12:15",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 0.89
+    },
+    {
+        "_id": "66267e503ff2e450ee8d41e3",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:12:16",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267e513ff2e450ee8d41e4",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:12:17",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267e523ff2e450ee8d41e5",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:12:18",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267e88662a76c3a50ee1d3",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:13:12",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267e8a662a76c3a50ee1d4",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 76,
+        "insertion_time": "2024-04-22 17:13:14",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66267e8b662a76c3a50ee1d5",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:13:15",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267e8c662a76c3a50ee1d6",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:13:16",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267e8d662a76c3a50ee1d7",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:13:17",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267eeb1026c721987d8d39",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:14:51",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267eec1026c721987d8d3a",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 75,
+        "insertion_time": "2024-04-22 17:14:52",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 0.89
+    },
+    {
+        "_id": "66267eed1026c721987d8d3b",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:14:53",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267eee1026c721987d8d3c",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:14:54",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267eef1026c721987d8d3d",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:14:55",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267ef1e6cd6ec3bd6209e6",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 79,
+        "insertion_time": "2024-04-22 17:14:57",
+        "name": "Azadshahr",
+        "pressure": 1018,
+        "temp_max": 10.31,
+        "temp_min": 10.31,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66267ef2e6cd6ec3bd6209e7",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 75,
+        "insertion_time": "2024-04-22 17:14:58",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 0.89
+    },
+    {
+        "_id": "66267ef3e6cd6ec3bd6209e8",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:14:59",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267ef4e6cd6ec3bd6209e9",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:15:00",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267ef6e6cd6ec3bd6209ea",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:15:02",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66267fa7cfb53d4fda700bed",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:17:59",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "66267fa9cfb53d4fda700bee",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:18:01",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.32,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66267faacfb53d4fda700bef",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:18:02",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66267fabcfb53d4fda700bf0",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:18:03",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66267faccfb53d4fda700bf1",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:18:04",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "6626801aa875e089e735885f",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:19:54",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "6626801ba875e089e7358860",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 75,
+        "insertion_time": "2024-04-22 17:19:55",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 0.89
+    },
+    {
+        "_id": "6626801ca875e089e7358861",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:19:56",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6626801da875e089e7358862",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:19:57",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "6626801fa875e089e7358863",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:19:59",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66268020d34a44c114d38ba2",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:20:00",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "66268021d34a44c114d38ba3",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:20:01",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.32,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "66268022d34a44c114d38ba4",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:20:02",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66268024d34a44c114d38ba5",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:20:04",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "66268025d34a44c114d38ba6",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:20:05",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662680502f346f569232c1b0",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:20:48",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662680512f346f569232c1b1",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:20:49",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.32,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "662680522f346f569232c1b2",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:20:50",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662680532f346f569232c1b3",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:20:51",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662680542f346f569232c1b4",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:20:52",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662680565ddc90a57e4e0543",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:20:54",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662680575ddc90a57e4e0544",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:20:55",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.32,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "662680585ddc90a57e4e0545",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 88,
+        "insertion_time": "2024-04-22 17:20:56",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662680595ddc90a57e4e0546",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:20:57",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "6626805b5ddc90a57e4e0547",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:20:59",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662680b12cc36241ebf362eb",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:22:25",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662680b22cc36241ebf362ec",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:22:26",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.79
+    },
+    {
+        "_id": "662680b42cc36241ebf362ed",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:22:28",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662680b52cc36241ebf362ee",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:22:29",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662680b62cc36241ebf362ef",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:22:30",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662680c7aec55841ad72e47e",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:22:47",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662680c8aec55841ad72e47f",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:22:48",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.79
+    },
+    {
+        "_id": "662680c9aec55841ad72e480",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:22:49",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662680caaec55841ad72e481",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:22:50",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662680ccaec55841ad72e482",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:22:52",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662680da78bcb97412cf514c",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:06",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662680db78bcb97412cf514d",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:23:07",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.79
+    },
+    {
+        "_id": "662680dc78bcb97412cf514e",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:08",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662680dd78bcb97412cf514f",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:09",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662680df78bcb97412cf5150",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:23:11",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662680e3b7a8a056d3687a2b",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:15",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662680e4b7a8a056d3687a2c",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:23:16",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.79
+    },
+    {
+        "_id": "662680e5b7a8a056d3687a2d",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:17",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662680e6b7a8a056d3687a2e",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:18",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662680e8b7a8a056d3687a2f",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:23:20",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662680fc9eb0c0ab5e69f95f",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:40",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662680fe9eb0c0ab5e69f960",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:23:42",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.32,
+        "temp_min": 20.55,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "662680ff9eb0c0ab5e69f961",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:43",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662681009eb0c0ab5e69f962",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:23:44",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662681019eb0c0ab5e69f963",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:23:45",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662681d3fdf5af8561bd2d01",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:27:15",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662681d4fdf5af8561bd2d02",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:27:16",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.79
+    },
+    {
+        "_id": "662681d6fdf5af8561bd2d03",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:27:18",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662681d7fdf5af8561bd2d04",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:27:19",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662681d8fdf5af8561bd2d05",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:27:20",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "662681e44b6cb1b511bed67a",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:27:32",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "662681e54b6cb1b511bed67b",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:27:33",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.79
+    },
+    {
+        "_id": "662681e64b6cb1b511bed67c",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:27:34",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662681e84b6cb1b511bed67d",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:27:36",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "662681e94b6cb1b511bed67e",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:27:37",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "6626828717cb52866b4f78bf",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:30:15",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "6626828817cb52866b4f78c0",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:30:16",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.34
+    },
+    {
+        "_id": "6626828a17cb52866b4f78c1",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:30:18",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6626828b17cb52866b4f78c2",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:30:19",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "6626828c17cb52866b4f78c3",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:30:20",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66268307410aa76af1376527",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:32:23",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "66268308410aa76af1376528",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:32:24",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.34
+    },
+    {
+        "_id": "6626830a410aa76af1376529",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:32:26",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6626830b410aa76af137652a",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:32:27",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 9.31,
+        "temp_min": 9.31,
+        "wind_speed": 2.11
+    },
+    {
+        "_id": "6626830c410aa76af137652b",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:32:28",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "6626830fb5f81139ada91a7a",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:32:31",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "66268310b5f81139ada91a7b",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:32:32",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.34
+    },
+    {
+        "_id": "66268311b5f81139ada91a7c",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:32:33",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66268313b5f81139ada91a7d",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 86,
+        "insertion_time": "2024-04-22 17:32:35",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 8.77,
+        "temp_min": 8.77,
+        "wind_speed": 2.23
+    },
+    {
+        "_id": "66268314b5f81139ada91a7e",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:32:36",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "66268365e3c692bc9c758c54",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:33:57",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 10.27,
+        "temp_min": 10.27,
+        "wind_speed": 6.17
+    },
+    {
+        "_id": "66268366e3c692bc9c758c55",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-22 17:33:58",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.55,
+        "wind_speed": 1.34
+    },
+    {
+        "_id": "66268367e3c692bc9c758c56",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 82,
+        "insertion_time": "2024-04-22 17:33:59",
+        "name": "Kahriz",
+        "pressure": 1018,
+        "temp_max": 14.04,
+        "temp_min": 14.04,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66268369e3c692bc9c758c57",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 86,
+        "insertion_time": "2024-04-22 17:34:01",
+        "name": "Nurabad",
+        "pressure": 1018,
+        "temp_max": 8.77,
+        "temp_min": 8.77,
+        "wind_speed": 2.23
+    },
+    {
+        "_id": "6626836ae3c692bc9c758c58",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 30,
+        "insertion_time": "2024-04-22 17:34:02",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1010,
+        "temp_max": 24.96,
+        "temp_min": 24.96,
+        "wind_speed": 4.91
+    },
+    {
+        "_id": "6627557b4d726e4bcb918ebd",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 08:30:19",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627557c4d726e4bcb918ebe",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-23 08:30:20",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.53,
+        "wind_speed": 1.34
+    },
+    {
+        "_id": "6627557e4d726e4bcb918ebf",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 08:30:22",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 16.04,
+        "temp_min": 16.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627557f4d726e4bcb918ec0",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 08:30:23",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "662755804d726e4bcb918ec1",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 08:30:24",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "66275581cfa0802e9ca10fdd",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 08:30:25",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66275583cfa0802e9ca10fde",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 74,
+        "insertion_time": "2024-04-23 08:30:27",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 23.88,
+        "temp_min": 20.53,
+        "wind_speed": 1.34
+    },
+    {
+        "_id": "66275584cfa0802e9ca10fdf",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 08:30:28",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 16.04,
+        "temp_min": 16.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66275585cfa0802e9ca10fe0",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 08:30:29",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "66275586cfa0802e9ca10fe1",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 08:30:30",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "662760d5ddae60e898433edd",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:18:45",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662760d6ddae60e898433ede",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:18:46",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "662760d7ddae60e898433edf",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:18:47",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662760d8ddae60e898433ee0",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:18:48",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "662760daddae60e898433ee1",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:18:50",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "662760dc2c16d83b4ffbe953",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:18:52",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662760dd2c16d83b4ffbe954",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:18:53",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "662760de2c16d83b4ffbe955",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:18:54",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662760df2c16d83b4ffbe956",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:18:55",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "662760e02c16d83b4ffbe957",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:18:56",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "6627614e25d891b7d14d76d8",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:20:46",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627614f25d891b7d14d76d9",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:20:47",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "6627615125d891b7d14d76da",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:20:49",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "6627615225d891b7d14d76db",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:20:50",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "6627615325d891b7d14d76dc",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:20:51",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "66276211ec42265f2c3c1b4b",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:24:01",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276212ec42265f2c3c1b4c",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:24:02",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "66276213ec42265f2c3c1b4d",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:24:03",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276215ec42265f2c3c1b4e",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:24:05",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "66276216ec42265f2c3c1b4f",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:24:06",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "662762f78a59e13e04afb5ba",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:27:51",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662762f88a59e13e04afb5bb",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 09:27:52",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "662762f98a59e13e04afb5bc",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:27:53",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662762fa8a59e13e04afb5bd",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:27:54",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "662762fc8a59e13e04afb5be",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:27:56",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "662762fdb537cdc0d7a52f51",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:27:57",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662762feb537cdc0d7a52f52",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:27:58",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "662762ffb537cdc0d7a52f53",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:27:59",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276301b537cdc0d7a52f54",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:28:01",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "66276302b537cdc0d7a52f55",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:28:02",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "6627631b68f7eae4503f81f1",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:28:27",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627631c68f7eae4503f81f2",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:28:28",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "6627631d68f7eae4503f81f3",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:28:29",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "6627631e68f7eae4503f81f4",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:28:30",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "6627632068f7eae4503f81f5",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:28:32",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "66276336cda3042ec3ae8e87",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:28:54",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276337cda3042ec3ae8e88",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 69,
+        "insertion_time": "2024-04-23 09:28:55",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "66276338cda3042ec3ae8e89",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:28:56",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "6627633acda3042ec3ae8e8a",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:28:58",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "6627633bcda3042ec3ae8e8b",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:28:59",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "662763552eacaf896ff1bf7f",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:29:25",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662763562eacaf896ff1bf80",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:29:26",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "662763582eacaf896ff1bf81",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:29:28",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662763592eacaf896ff1bf82",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:29:29",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "6627635a2eacaf896ff1bf83",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:29:30",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "66276371273279edbafd142c",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:29:53",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276373273279edbafd142d",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 69,
+        "insertion_time": "2024-04-23 09:29:55",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "66276374273279edbafd142e",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:29:56",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276375273279edbafd142f",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 62,
+        "insertion_time": "2024-04-23 09:29:57",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 13.77,
+        "temp_min": 13.77,
+        "wind_speed": 4.81
+    },
+    {
+        "_id": "66276376273279edbafd1430",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:29:58",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "6627648928dbb86a70804f64",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:34:33",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627648a28dbb86a70804f65",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 09:34:34",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "6627648b28dbb86a70804f66",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:34:35",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "6627648c28dbb86a70804f67",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:34:36",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "6627648e28dbb86a70804f68",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:34:38",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "6627648f1a8326946d3d27a8",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:34:39",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662764901a8326946d3d27a9",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 09:34:40",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 2.68
+    },
+    {
+        "_id": "662764911a8326946d3d27aa",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:34:41",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662764931a8326946d3d27ab",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:34:43",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "662764941a8326946d3d27ac",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 09:34:44",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 17.67,
+        "temp_min": 17.67,
+        "wind_speed": 3.5
+    },
+    {
+        "_id": "662765a52902456365195d92",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:39:17",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662765a72902456365195d93",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 09:39:19",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "662765a82902456365195d94",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:39:20",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662765a92902456365195d95",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:39:21",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "662765aa2902456365195d96",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:39:22",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "662765ac65e6238ef0ece119",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:39:24",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662765ad65e6238ef0ece11a",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:39:25",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "662765ae65e6238ef0ece11b",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:39:26",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662765af65e6238ef0ece11c",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:39:27",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "662765b065e6238ef0ece11d",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:39:28",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "6627662450e221a5ccd4e63b",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:41:24",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627662650e221a5ccd4e63c",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:41:26",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "6627662750e221a5ccd4e63d",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:41:27",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "6627662850e221a5ccd4e63e",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:41:28",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "6627662950e221a5ccd4e63f",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:41:29",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "6627662caac6a183e2cfc123",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:41:32",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627662daac6a183e2cfc124",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 09:41:33",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "6627662faac6a183e2cfc125",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:41:35",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276630aac6a183e2cfc126",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:41:36",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276631aac6a183e2cfc127",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:41:37",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "6627663757303c04ac07303e",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:41:43",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627663957303c04ac07303f",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 09:41:45",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "6627663a57303c04ac073040",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:41:46",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "6627663b57303c04ac073041",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:41:47",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "6627663c57303c04ac073042",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:41:48",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "662766420fb6f8f7c8c123d5",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:41:54",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662766430fb6f8f7c8c123d6",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 09:41:55",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 2.24
+    },
+    {
+        "_id": "662766450fb6f8f7c8c123d7",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:41:57",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "662766460fb6f8f7c8c123d8",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:41:58",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "662766470fb6f8f7c8c123d9",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:41:59",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276695a83d7c76db03945c",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:43:17",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276696a83d7c76db03945d",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:43:18",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "66276697a83d7c76db03945e",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 52,
+        "insertion_time": "2024-04-23 09:43:19",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 18.04,
+        "temp_min": 18.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276698a83d7c76db03945f",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:43:20",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276699a83d7c76db039460",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:43:21",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276752792834b395120e20",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:46:26",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276753792834b395120e21",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 09:46:27",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "66276755792834b395120e22",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 09:46:29",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276756792834b395120e23",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:46:30",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276757792834b395120e24",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:46:31",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "662767589a031b427c834dfd",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 09:46:32",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627675a9a031b427c834dfe",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 71,
+        "insertion_time": "2024-04-23 09:46:34",
+        "name": "Protaras",
+        "pressure": 1023,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 3.13
+    },
+    {
+        "_id": "6627675b9a031b427c834dff",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 09:46:35",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "6627675c9a031b427c834e00",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 09:46:36",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "6627675d9a031b427c834e01",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 09:46:37",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276a920839e493977ec919",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 10:00:18",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276a940839e493977ec91a",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:00:20",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276a950839e493977ec91b",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:00:21",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276a960839e493977ec91c",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:00:22",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276a970839e493977ec91d",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:00:23",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276a998cfbaad4dfb8bbcb",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 93,
+        "insertion_time": "2024-04-23 10:00:25",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276a9a8cfbaad4dfb8bbcc",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:00:26",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276a9b8cfbaad4dfb8bbcd",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:00:27",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276a9d8cfbaad4dfb8bbce",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:00:29",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276a9e8cfbaad4dfb8bbcf",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:00:30",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276c781984226c503e7b7e",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 10:08:24",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 11.2,
+        "temp_min": 11.2,
+        "wind_speed": 4.49
+    },
+    {
+        "_id": "66276c7a1984226c503e7b7f",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:08:26",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276c7b1984226c503e7b80",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:08:27",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276c7c1984226c503e7b81",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:08:28",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276c7d1984226c503e7b82",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:08:29",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276db97f7e7d8d4b577203",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 70,
+        "insertion_time": "2024-04-23 10:13:45",
+        "name": "Azadshahr",
+        "pressure": 1019,
+        "temp_max": 11.2,
+        "temp_min": 11.2,
+        "wind_speed": 4.49
+    },
+    {
+        "_id": "66276dba7f7e7d8d4b577204",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:13:46",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276dbc7f7e7d8d4b577205",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:13:48",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276dbd7f7e7d8d4b577206",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:13:49",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276dbe7f7e7d8d4b577207",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:13:50",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276de2a37ae67db47bf242",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:14:26",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276de3a37ae67db47bf243",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:14:27",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276de5a37ae67db47bf244",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:14:29",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276de6a37ae67db47bf245",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:14:30",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276de7a37ae67db47bf246",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:14:31",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276dfe2331723b640022f3",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:14:54",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276dff2331723b640022f4",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:14:55",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276e002331723b640022f5",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:14:56",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276e022331723b640022f6",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:14:58",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276e032331723b640022f7",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:14:59",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276e49abbd6fda271bd0f6",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:16:09",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276e4aabbd6fda271bd0f7",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:16:10",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276e4cabbd6fda271bd0f8",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:16:12",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276e4dabbd6fda271bd0f9",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:16:13",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276e4eabbd6fda271bd0fa",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:16:14",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276e6b671c62afb04e5f5d",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:16:43",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276e6c671c62afb04e5f5e",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:16:44",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276e6e671c62afb04e5f5f",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:16:46",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276e6f671c62afb04e5f60",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:16:47",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276e70671c62afb04e5f61",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:16:48",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276f1f8d813dd493015244",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:19:43",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276f208d813dd493015245",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:19:44",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276f228d813dd493015246",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:19:46",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276f238d813dd493015247",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:19:47",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276f248d813dd493015248",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:19:48",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276f31729c42757765fdc8",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:20:01",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276f33729c42757765fdc9",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:20:03",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276f34729c42757765fdca",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:20:04",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276f35729c42757765fdcb",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:20:05",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276f36729c42757765fdcc",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:20:06",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276f62800a35efe69082f2",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:20:50",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276f63800a35efe69082f3",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:20:51",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276f64800a35efe69082f4",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:20:52",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276f66800a35efe69082f5",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:20:54",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276f67800a35efe69082f6",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:20:55",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276f8f59bab3bedcecb9a5",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:21:35",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276f9059bab3bedcecb9a6",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:21:36",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276f9159bab3bedcecb9a7",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 45,
+        "insertion_time": "2024-04-23 10:21:37",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 4.12
+    },
+    {
+        "_id": "66276f9259bab3bedcecb9a8",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:21:38",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276f9359bab3bedcecb9a9",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:21:39",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66276fbdc19c905b1ae56917",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:22:21",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66276fbec19c905b1ae56918",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:22:22",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66276fc0c19c905b1ae56919",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:22:24",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66276fc1c19c905b1ae5691a",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:22:25",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66276fc2c19c905b1ae5691b",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:22:26",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "6627700992857c247f148477",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:23:37",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6627700a92857c247f148478",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:23:38",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "6627700b92857c247f148479",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:23:39",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627700d92857c247f14847a",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:23:41",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "6627700e92857c247f14847b",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:23:42",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "662770183ed4ea1e360b05fb",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:23:52",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6627701a3ed4ea1e360b05fc",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:23:54",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "6627701b3ed4ea1e360b05fd",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:23:55",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627701c3ed4ea1e360b05fe",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:23:56",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "6627701d3ed4ea1e360b05ff",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:23:57",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "6627702a1fa1b637fe081481",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:24:10",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6627702b1fa1b637fe081482",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:24:11",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "6627702d1fa1b637fe081483",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:24:13",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627702e1fa1b637fe081484",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:24:14",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "6627702f1fa1b637fe081485",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:24:15",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "662770345b51d49c04f266a9",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:24:20",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "662770355b51d49c04f266aa",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:24:21",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662770365b51d49c04f266ab",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:24:22",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "662770375b51d49c04f266ac",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:24:23",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "662770d263022f2d59a558e9",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:26:58",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662770d363022f2d59a558ea",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:26:59",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "662770d463022f2d59a558eb",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:27:00",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662770d563022f2d59a558ec",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:27:01",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "662770d763022f2d59a558ed",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:27:03",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "662770e0ed6fe7ffdedc5546",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:27:12",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662770e2ed6fe7ffdedc5547",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:27:14",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "662770e3ed6fe7ffdedc5548",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:27:15",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662770e4ed6fe7ffdedc5549",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:27:16",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "662770e5ed6fe7ffdedc554a",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:27:17",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66277104056a2c6cc0438464",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:27:48",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66277105056a2c6cc0438465",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:27:49",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66277106056a2c6cc0438466",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:27:50",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66277107056a2c6cc0438467",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:27:51",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66277109056a2c6cc0438468",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:27:53",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "6627710fa022d9c5c1b62329",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:27:59",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66277110a022d9c5c1b6232a",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:28:00",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66277111a022d9c5c1b6232b",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:28:01",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66277113a022d9c5c1b6232c",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:28:03",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66277114a022d9c5c1b6232d",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:28:04",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66277121af6760272f8fe0fd",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:28:17",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66277122af6760272f8fe0fe",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:28:18",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66277123af6760272f8fe0ff",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:28:19",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66277124af6760272f8fe100",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:28:20",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66277126af6760272f8fe101",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:28:22",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66277182274c5d17f511d07a",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:29:54",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66277183274c5d17f511d07b",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 67,
+        "insertion_time": "2024-04-23 10:29:55",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.34
+    },
+    {
+        "_id": "66277184274c5d17f511d07c",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:29:56",
+        "name": "Kahriz",
+        "pressure": 1020,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66277185274c5d17f511d07d",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 57,
+        "insertion_time": "2024-04-23 10:29:57",
+        "name": "Nurabad",
+        "pressure": 1016,
+        "temp_max": 14.69,
+        "temp_min": 14.69,
+        "wind_speed": 6.12
+    },
+    {
+        "_id": "66277187274c5d17f511d07e",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 53,
+        "insertion_time": "2024-04-23 10:29:59",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.17,
+        "temp_min": 18.17,
+        "wind_speed": 4.02
+    },
+    {
+        "_id": "66277470cda08e18f42f8b07",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:42:24",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "66277472cda08e18f42f8b08",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 64,
+        "insertion_time": "2024-04-23 10:42:26",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.81
+    },
+    {
+        "_id": "66277473cda08e18f42f8b09",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:42:27",
+        "name": "Kahriz",
+        "pressure": 1019,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "66277474cda08e18f42f8b0a",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 55,
+        "insertion_time": "2024-04-23 10:42:28",
+        "name": "Nurabad",
+        "pressure": 1015,
+        "temp_max": 14.97,
+        "temp_min": 14.97,
+        "wind_speed": 6.8
+    },
+    {
+        "_id": "66277475cda08e18f42f8b0b",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 10:42:29",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.75,
+        "temp_min": 18.75,
+        "wind_speed": 3.8
+    },
+    {
+        "_id": "6627747742787e3a5b1a577e",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:42:31",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "6627747842787e3a5b1a577f",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 64,
+        "insertion_time": "2024-04-23 10:42:32",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.99,
+        "temp_min": 21.64,
+        "wind_speed": 3.81
+    },
+    {
+        "_id": "6627747942787e3a5b1a5780",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:42:33",
+        "name": "Kahriz",
+        "pressure": 1019,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "6627747a42787e3a5b1a5781",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 55,
+        "insertion_time": "2024-04-23 10:42:34",
+        "name": "Nurabad",
+        "pressure": 1015,
+        "temp_max": 14.97,
+        "temp_min": 14.97,
+        "wind_speed": 6.8
+    },
+    {
+        "_id": "6627747b42787e3a5b1a5782",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 10:42:35",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.75,
+        "temp_min": 18.75,
+        "wind_speed": 3.8
+    },
+    {
+        "_id": "662774c84a2856f207404bf9",
+        "city_id": "662678436426de3f076768e4",
+        "coordinates": {
+            "lat": 34.790878,
+            "lon": 48.570728
+        },
+        "humidity": 87,
+        "insertion_time": "2024-04-23 10:43:52",
+        "name": "Azadshahr",
+        "pressure": 1022,
+        "temp_max": 8.27,
+        "temp_min": 8.27,
+        "wind_speed": 3.09
+    },
+    {
+        "_id": "662774c94a2856f207404bfa",
+        "city_id": "662678446426de3f076768e5",
+        "coordinates": {
+            "lat": 35.012501,
+            "lon": 34.058331
+        },
+        "humidity": 64,
+        "insertion_time": "2024-04-23 10:43:53",
+        "name": "Protaras",
+        "pressure": 1019,
+        "temp_max": 24.43,
+        "temp_min": 21.64,
+        "wind_speed": 3.81
+    },
+    {
+        "_id": "662774ca4a2856f207404bfb",
+        "city_id": "662678446426de3f076768e6",
+        "coordinates": {
+            "lat": 34.383801,
+            "lon": 47.055302
+        },
+        "humidity": 42,
+        "insertion_time": "2024-04-23 10:43:54",
+        "name": "Kahriz",
+        "pressure": 1019,
+        "temp_max": 19.04,
+        "temp_min": 19.04,
+        "wind_speed": 2.06
+    },
+    {
+        "_id": "662774cc4a2856f207404bfc",
+        "city_id": "662678446426de3f076768e7",
+        "coordinates": {
+            "lat": 34.073399,
+            "lon": 47.9725
+        },
+        "humidity": 55,
+        "insertion_time": "2024-04-23 10:43:56",
+        "name": "Nurabad",
+        "pressure": 1015,
+        "temp_max": 14.97,
+        "temp_min": 14.97,
+        "wind_speed": 6.8
+    },
+    {
+        "_id": "662774cd4a2856f207404bfd",
+        "city_id": "662678446426de3f076768e8",
+        "coordinates": {
+            "lat": 35.23455,
+            "lon": 52.309422
+        },
+        "humidity": 54,
+        "insertion_time": "2024-04-23 10:43:57",
+        "name": "Istgah-e Garmsar",
+        "pressure": 1015,
+        "temp_max": 18.75,
+        "temp_min": 18.75,
+        "wind_speed": 3.8
+    }
+]
