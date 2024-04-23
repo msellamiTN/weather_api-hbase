@@ -75,5 +75,6 @@ def store_weather_data_in_db():
 from routes import *
 
 if __name__ == '__main__':
-    store_weather_data_in_db()
     app.run(debug=True, host='0.0.0.0', port=8080)
+    store_weather_data_in_db()
+    
