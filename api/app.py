@@ -5,6 +5,7 @@ from datetime import datetime
 import requests
 from flask import Flask
 from pymongo import MongoClient
+import threading
 
 app = Flask(__name__)
 client = MongoClient('172.20.0.2', 27017)
@@ -34,7 +35,7 @@ def get_weather_data(lat, lon, api_key):
         return None
 
 def get_data(lat, lon):
-    api_key = "430264947903dc36f471c78593348961" 
+    api_key = "74fba207e3c6e53a8e1b95c9457311a8" 
     return get_weather_data(lat, lon, api_key)
 
 def store_weather_data_in_db():
@@ -89,3 +90,8 @@ from routes import *
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=8080)
     #store_weather_data_in_db()
+
+    # Boucle pour appeler toute les minutes
+    while True:
+        store_weather_data_in_db()
+        time.sleep(60)
