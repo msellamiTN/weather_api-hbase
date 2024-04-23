@@ -1,14 +1,15 @@
-import requests
 import json
-import pymongo
-from pymongo import MongoClient
-from datetime import datetime
 import time
+from datetime import datetime
+import requests
+from flask import Flask
+from pymongo import MongoClient
 
-client = MongoClient('mongodb', 27017)
+app = Flask(__name__)
+client = MongoClient('localhost', 27017)
 db = client['weatherdb']
 
-def get(lat, lon, api_key):
+def get_weather_data(lat, lon, api_key):
     base_url = "https://api.openweathermap.org/data/2.5/weather"
     params = {
         "lat": lat,
@@ -19,72 +20,47 @@ def get(lat, lon, api_key):
     try:
         response = requests.get(base_url, params=params)
         response.raise_for_status()
-        data = response.json()
-        return data
+        return response.json()
     except requests.exceptions.RequestException as e:
         print("Erreur de connexion:", e)
         return None
 
 def get_data(lat, lon):
     api_key = "74fba207e3c6e53a8e1b95c9457311a8" 
-    weather_data = get(lat, lon, api_key)
-    if weather_data:
-         return weather_data
-    else:
-        print("Impossible de récupérer les prévisions météorologiques")
+    return get_weather_data(lat, lon, api_key)
 
-if 'city' not in db.list_collection_names():
+def store_weather_data_in_db():
+    if 'city' not in db.list_collection_names():
+        city_collection = db['city']
+        with open('city.json', 'r', encoding='utf-8') as d:
+            data = json.load(d)
+            for city in data[:5]:  # Import only the first 5 cities
+                city_collection.insert_one(city)
+
+    weather_collection = db['weather']
     city_collection = db['city']
-    with open('city.json', encoding='utf-8') as d:
-        data = json.load(d)
-    for city in data:
-        lon = city['coord']['lon']
-        lat = city['coord']['lat']
-        name = city['name']
-        data = {
-            "name": name,
-            "coordinates": {"lon": lon, "lat": lat}
-        }
-        city_id = city_collection.insert_one(data).inserted_id
+    cursor = city_collection.find()
 
-if 'weather' not in db.list_collection_names():
-    W_collection = db['weather']
+    for document in cursor:
+        weather_data = get_data(document['coordinates']['lat'], document['coordinates']['lon'])
+        if weather_data:
+            weather_record = {
+                "city_id": document['_id'],
+                "name": document['name'],
+                "coordinates": document['coordinates'],
+                "temp_min": weather_data['main']['temp_min'],
+                "temp_max": weather_data['main']['temp_max'],
+                "humidity": weather_data['main']['humidity'],
+                "pressure": weather_data['main']['pressure'],
+                "wind_speed": weather_data['wind']['speed'],
+                "insertion_time": datetime.now()
+            }
+            weather_collection.insert_one(weather_record)
+            print(f"{document['name']} - Succès dans la collecte de données")
+            time.sleep(1)
 
-W_collection = db['weather']
-city_collection = db['city']
-cursor = city_collection.find()
+from routes import *
 
-for document in cursor:
-    name = document['name']
-    id = document['_id']
-    lon = document['coordinates']['lon']
-    lat = document['coordinates']['lat']
-    rep = get_data(lat, lon)
-    temp_min = rep['main']['temp_min']
-    temp_max = rep['main']['temp_max']
-    humidity = rep['main']['humidity']
-    pressure = rep['main']['pressure']
-    wind_speed = rep['wind']['speed']
-    current_time = datetime.now()
-
-    data_w = {
-        "city_id": id,
-        "name": name,
-        "coordinates": {"lon": lon, "lat": lat},
-        "temp_min": temp_min,
-        "temp_max": temp_max,
-        "humidity": humidity,
-        "pressure": pressure,
-        "wind_speed": wind_speed,
-        "insertion_time": current_time  
-    }
-
-    data_weather = W_collection.insert_one(data_w)
-
-    print(f"{name}Succès dans la collecte de données")
-    
-  
-    time.sleep(3)
-
-client.close()
-
+if __name__ == '__main__':
+    store_weather_data_in_db()
+    app.run(debug=True, host='localhost', port=8080)

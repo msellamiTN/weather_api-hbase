@@ -33,4 +33,4 @@ def get_weather_by_temp_range():
         data['insertion_time'] = data['insertion_time'].strftime('%Y-%m-%d %H:%M:%S')
     return jsonify(weather_data) if weather_data else jsonify({"error": "Aucune donnée météorologique disponible pour la plage de température spécifiée"})
 
-
+# Ensure to import these routes in app.py
