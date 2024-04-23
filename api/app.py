@@ -26,7 +26,7 @@ def get_weather_data(lat, lon, api_key):
         return None
 
 def get_data(lat, lon):
-    api_key = "74fba207e3c6e53a8e1b95c9457311a8" 
+    api_key = "430264947903dc36f471c78593348961" 
     return get_weather_data(lat, lon, api_key)
 
 def store_weather_data_in_db():
@@ -70,7 +70,7 @@ def store_weather_data_in_db():
                     print(f"Le document {document['_id']} ne contient pas de coordonnées valides.")
             else:
                 print(f"Le document {document['_id']} ne contient pas de champ 'coord'.")
-        time.sleep(60)  # Pause d'une minute avant la prochaine itération
+        time.sleep(300)
 
 from routes import *
 
