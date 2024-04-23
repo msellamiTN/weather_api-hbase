@@ -1,6 +1,6 @@
 from flask import jsonify, request
 from app import app, db
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 ############ Helpers ############
@@ -153,7 +153,7 @@ def get_weather_by_date():
         return jsonify({"error": "Format de date invalide. Assurez-vous d'utiliser le format 'jour/mois/année'"}), 400
 
     # Créer la requête pour trouver les données correspondant à la date spécifiée
-    query = {"insertion_time": {"$gte": date, "$lt": date + datetime.timedelta(days=1)}}
+    query = {"insertion_time": {"$gte": date, "$lt": date + timedelta(days=1)}}
     weather_data = list(db.weather.find(query))
 
     # Formatter les données pour la réponse
