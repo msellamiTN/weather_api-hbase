@@ -1,0 +1,7 @@
+﻿requests==2.31.0
+flask
+happybase==1.2.0
+ply==3.11
+six==1.16.0
+thriftpy2==0.4.20
+
